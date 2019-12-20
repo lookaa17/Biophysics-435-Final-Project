@@ -1,6 +1,6 @@
 # Biophysics-435-Final-Project
 
-This GitHub repository contains the BaseStacking_and_SASA_Predictive_Models.ipynb file which contains Deep Learning Models trained to predict base-stacking interactions and solvent accessible surface areas for RNA molecules based on 19 chemical shift datapoints. The raw data is contained in the final_training, final_training_sasa, and final_training_sasa_output csv files.
+This GitHub repository contains a python code BaseStacking_and_SASA_Predictive_Models.ipynb file which contains Deep Learning Models trained to predict base-stacking interactions and solvent accessible surface areas (SASA) for RNA molecules based on 19 chemical shift datapoints. The raw data is contained in the final_training, final_training_sasa, and final_training_sasa_output csv files.
 
 * final_training.csv contains the chemical shift data
 * final_training_sasa.csv contains the SASA data
